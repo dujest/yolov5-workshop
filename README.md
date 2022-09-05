@@ -1,5 +1,10 @@
 # yolov5-workshop
 
+<p>
+<img src="https://github.com/dujest/yolov5-workshop/blob/main/results/cruise_ship.gif" width="45%" />
+<img src="https://github.com/dujest/yolov5-workshop/blob/main/results/windturbine.gif" width="45%" />
+</p>
+
 The YOLOv5 workshop comprises several Jupiter Notebook files with different applications of [YOLOv5](https://github.com/ultralytics/yolov5), and each has a link to Google Colab which provides computing on GPU ([NVIDIA Tesla T4 16GB for AI inference](https://www.nvidia.com/en-us/data-center/tesla-t4/)).
 
 To run successfuly all the files, use Google Colab mounted on your Google Drive or otherwise just remove the part `drive/MyDrive/colab/` from the all available paths.
@@ -12,9 +17,6 @@ The available files are:
 
 `YOLOv5_Hyperparameter_Evolution` performes an evolution of the YOLOv5 hyperparameters with GA (genetic algorithm).
 
-`Yolov5_DeepSort`
+`Yolov5_DeepSort` multi object tracking with the StrongSORT algorithm, based on DeepSORT and Kalman filtering
 
-<p>
-<img src="https://github.com/dujest/yolov5-workshop/blob/main/results/cruise_ship.gif" width="45%" />
-<img src="https://github.com/dujest/yolov5-workshop/blob/main/results/windturbine.gif" width="45%" />
-</p>
+<img src="https://drive.google.com/uc?id=1QqcmxwlpTGn1TSTeNlWZX8HJjJRao6Mc" width="70%" />
