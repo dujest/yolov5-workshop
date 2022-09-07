@@ -1,7 +1,7 @@
 # yolov5-workshop
 
 <p>
-<img src="https://github.com/dujest/yolov5-workshop/blob/main/results/cruise_ship.gif" width="45%" />
+<img src="https://github.com/dujest/yolov5-workshop/blob/main/results/port.gif" width="45%" />
 <img src="https://github.com/dujest/yolov5-workshop/blob/main/results/windturbine.gif" width="45%" />
 </p>
 
@@ -16,6 +16,11 @@ The available files are:
 `Deep_CNN_Image_Classifier` applies a custom CNN for classification of corrosion affected objects.
 
 `YOLOv5_Hyperparameter_Evolution` performes an evolution of the YOLOv5 hyperparameters with GA (genetic algorithm).
+
+<p>
+<img src="https://github.com/dujest/yolov5-workshop/blob/main/results/cruise_ship.gif" width="45%" />
+<img src="https://github.com/dujest/yolov5-workshop/blob/main/results/portofsingapore.gif" width="45%" />
+</p>
 
 `Yolov5_DeepSort` multi object tracking with the StrongSORT algorithm, based on DeepSORT and Kalman filtering
 
