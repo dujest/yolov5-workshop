@@ -22,6 +22,8 @@ The available files are:
 <img src="https://github.com/dujest/yolov5-workshop/blob/main/results/portofsingapore.gif" width="45%" />
 </p>
 
-`Yolov5_DeepSort` multi object tracking with the StrongSORT algorithm, based on DeepSORT and Kalman filtering
+`Yolov5_DeepSort` deploys the [StrongSORT algorithm](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet) for multi object tracking, based on [DeepSORT](https://arxiv.org/abs/1703.07402) and [Kalman filtering](https://www.kalmanfilter.net/default.aspx).
 
-<img src="https://drive.google.com/uc?id=1QqcmxwlpTGn1TSTeNlWZX8HJjJRao6Mc" width="70%" />
+<p>
+<img src="https://drive.google.com/uc?id=1QqcmxwlpTGn1TSTeNlWZX8HJjJRao6Mc" width="70%" >
+</p>
