@@ -11,19 +11,18 @@ To run successfuly all the files, use Google Colab mounted on your Google Drive 
 
 The available files are:
 
-`YOLOv5_Custom_Training`, based on the [YOLOv5 Custom Training Notebook](https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb), examines the performance of the SGD, Adam and AadamW optimization algorithms, provided by YOLOv5, and impact of different batch sizes on the metrics.
+1. `YOLOv5_Custom_Training`, based on the [YOLOv5 Custom Training Notebook](https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb), examines the performance of the SGD, Adam and AadamW optimization algorithms, provided by YOLOv5, and impact of different batch sizes on the metrics.
+2. `Deep_CNN_Image_Classifier` applies a custom CNN for classification of corrosion affected objects.
 
-`Deep_CNN_Image_Classifier` applies a custom CNN for classification of corrosion affected objects.
-
-`YOLOv5_Hyperparameter_Evolution` performes an evolution of the YOLOv5 hyperparameters with GA (genetic algorithm).
+3. `YOLOv5_Hyperparameter_Evolution` performes an evolution of the YOLOv5 hyperparameters with GA (genetic algorithm). For 
 
 <p>
 <img src="https://github.com/dujest/yolov5-workshop/blob/main/results/cruise_ship.gif" width="45%" />
 <img src="https://github.com/dujest/yolov5-workshop/blob/main/results/portofsingapore.gif" width="45%" />
 </p>
 
-`Yolov5_DeepSort` deploys the [StrongSORT algorithm](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet) for multi object tracking, based on [DeepSORT](https://arxiv.org/abs/1703.07402) and [Kalman filtering](https://www.kalmanfilter.net/default.aspx).
+4. `Yolov5_DeepSort` deploys the [StrongSORT algorithm](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet) for multi object tracking, based on [DeepSORT](https://arxiv.org/abs/1703.07402) and [Kalman filtering](https://www.kalmanfilter.net/default.aspx).
 
 <p>
-<img src="https://drive.google.com/uc?id=1QqcmxwlpTGn1TSTeNlWZX8HJjJRao6Mc" width="70%" >
+<img src="https://drive.google.com/uc?id=1QqcmxwlpTGn1TSTeNlWZX8HJjJRao6Mc" width="90%" >
 </p>
