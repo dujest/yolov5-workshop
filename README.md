@@ -11,10 +11,11 @@ To run successfuly all the files, use Google Colab mounted on your Google Drive 
 
 The available files are:
 
-1. `YOLOv5_Custom_Training`, based on the [YOLOv5 Custom Training Notebook](https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb), examines the performance of the SGD, Adam and AadamW optimization algorithms, provided by YOLOv5, and impact of different batch sizes on the metrics.
-2. `Deep_CNN_Image_Classifier` applies a custom CNN for classification of corrosion affected objects.
+1. `Deep_CNN_Image_Classifier` applies a custom CNN for classification of objects affected by corrosion.
 
-3. `YOLOv5_Hyperparameter_Evolution` performes an evolution of the YOLOv5 hyperparameters with GA (genetic algorithm). For 
+2. `YOLOv5_Custom_Training`, based on the [YOLOv5 Custom Training Notebook](https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb), examines the performance of the SGD, Adam and AdamW optimization algorithms, provided by YOLOv5, and impact of different batch sizes on the metrics.
+
+3. `YOLOv5_Hyperparameter_Evolution` performes an evolution of the YOLOv5 hyperparameters with GA (genetic algorithm).
 
 <p>
 <img src="https://github.com/dujest/yolov5-workshop/blob/main/results/cruise_ship.gif" width="45%" />
